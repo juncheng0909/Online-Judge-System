@@ -11,6 +11,8 @@ class JudgeSystem : private AccountSystem, private ProblemSystem, private MainPa
         std::string status;
         void loadData();
         void effectLoading(std::string content);
+        void submitSolution();
+        void randomDailyProblem();
     public:
         JudgeSystem() = default;
         JudgeSystem(std::string userPath, std::string problemPath, std::string msgPath, std::string version);

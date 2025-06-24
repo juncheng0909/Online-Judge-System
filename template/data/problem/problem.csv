@@ -1,2 +1,7 @@
-A+B,./data/problem/testcase/a+b,./data/problem/testcase/a+b, 10
-Hello World,./data/problem/testcase/helloworld.,/data/problem/testcase/helloworld,10
+A+B,./data/problem/testcase/a+b/input.txt,./data/problem/testcase/a+b/ans.txt,10
+A-B,./data/problem/testcase/a-b/input.txt,./data/problem/testcase/a-b/ans.txt,15
+GCD,./data/problem/testcase/GCD/input.txt,./data/problem/testcase/GCD/ans.txt,20
+LCM,./data/problem/testcase/LCM/input.txt,./data/problem/testcase/LCM/ans.txt,25
+POWER,./data/problem/testcase/Power/input.txt,./data/problem/testcase/Power/ans.txt,50
+Hello World,./data/problem/testcase/helloworld./input.txt,/data/problem/testcase/helloworld/ans.txt,12
+APPLE APPLE,/test/input.txt,./test/output.txt,26
